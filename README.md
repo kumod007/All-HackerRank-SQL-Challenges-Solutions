@@ -1,9 +1,6 @@
 # HackerRank-SQL-All-Challenges-Solutions
-This repository contains my solutions to various SQL challenges on HackerRank, organized by categories and difficulty levels. Each solution includes a brief explanation of the problem and my approach to solving it. These solutions can be used as a reference for other learners or as a way to practice and improve SQL skills.
-![GitHub](https://img.shields.io/github/license/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=flat)
-![ViewCount](https://views.whatilearened.today/views/github/Thomas-George-T/HackerRank-SQL-Challenges-Solutions.svg?cache=remove)
+![GitHub last commit](https://img.shields.io/github/last-commit/kumod007/HackerRank-SQL-All-Challenges-Solutions?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/kumod007/HackerRank-SQL-All-Challenges-Solutions.svg?cache=remove)
 
 <p align="center">  
 	<br>
@@ -15,7 +12,10 @@ This repository contains my solutions to various SQL challenges on HackerRank, o
 </p>
 
 ## Description
-The solutions of all the SQL challenges for all easy, medium and hard challenges on HackerRank executed on MySQL environment compiled with helpful Resources & references related to the challenges.
+This repository contains my solutions to various SQL challenges on HackerRank, organized by categories and difficulty levels. 
+Each solution includes a brief explanation of the problem and my approach to solving it executed on MySQL environment.
+These solutions can be used as a reference for other learners or as a way to practice and improve SQL skills.
+
 
 ## Domains
 
@@ -98,15 +98,3 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |:------:|:----------------------------------------------------------------------------------:|:--------------------------------------------------:|
 |    1   | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [SQL](ADVANCE%20JOIN/SQL%20PROJECT%20PLANNING.sql) |
 |    2   | [Placements](https://www.hackerrank.com/challenges/placements/problem)             | [SQL](ADVANCE%20JOIN/Placements.sql)               |
-
-## References
-
-- [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)
-- [Variables in MySQL](https://stackoverflow.com/a/11754790)
-- [Median in MySQL](https://stackoverflow.com/a/7263925)
-
-## Features & Mentions
-This project was featured in [laptrinhx](https://laptrinhx.com/the-solutions-of-all-sql-hackerrank-challenges-executed-on-mysql-environment-545160427/). Thank you for the listing!
-
-## License
-This repository is licensed under MIT License - see [License](LICENSE.md) for more details
