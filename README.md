@@ -1,6 +1,6 @@
-# HackerRank-SQL-All-Challenges-Solutions
-![ViewCount](https://views.whatilearened.today/views/github/kumod007/HackerRank-SQL-All-Challenges-Solutions.svg?cache=remove)
-![GitHub last commit](https://img.shields.io/github/last-commit/kumod007/HackerRank-SQL-All-Challenges-Solutions?style=flat)
+# All-HackerRank-SQL-Challenges-Solutions
+![ViewCount](https://views.whatilearened.today/views/github/kumod007/All-HackerRank-SQL-Challenges-Solutions.svg?cache=remove)
+![GitHub last commit](https://img.shields.io/github/last-commit/kumod007/All-HackerRank-SQL-Challenges-Solutions?style=flat)
 
 <p align="center">  
 	<br>
