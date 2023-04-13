@@ -4,7 +4,7 @@
 
 <p align="center">  
 	<br>
-	<a href="https://www.hackerrank.com/Thomas_George_T">
+	<a href="https://www.hackerrank.com/Kumod_Sharma">
         <img height=100 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg"> 
     </a>
     <br>
